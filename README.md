@@ -6,6 +6,10 @@ Algoritmo Python que calcula as melhores rotas para transporte marítimo, mobili
 
 Se conecta com a solução SeaLog, do time: Davidson, Gochi, Alice, Gustavo, Lode, Ash.
 
+- https://github.com/davidsonlima/hackathon-radix-sealog-algorithm [algoritmo]
+- https://github.com/oismaelash/dream-team-nodejs-backend [backend]
+- https://github.com/GustavoMendes-Dev/sealog_front [frontend]
+
 ############
 Resultado: equipe campeã!
 Pitch: https://www.youtube.com/watch?v=KwWThpNO1XE
